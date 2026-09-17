@@ -1,0 +1,14 @@
+#simulation files
+dump.vcd
+cov_work/
+xcelium.d/
+xrun.history
+xrun.log
+*.key
+*.log
+*.vdb/
+simv*
+csrc/
+
+#system files
+.DS_Store
